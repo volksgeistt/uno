@@ -384,7 +384,9 @@ class UNOGame:
     {Colors.RED}██    ██ {Colors.BLUE}██  ██ ██ {Colors.GREEN}██    ██{Colors.PURPLE}        
      {Colors.RED}██████  {Colors.BLUE}██   ████  {Colors.GREEN}██████{Colors.PURPLE}         
                                                 
-{Colors.BOLD}{Colors.WHITE}Cli-Based Card Game Interface{Colors.PURPLE}                                            
+{Colors.BOLD}{Colors.WHITE}Cli-Based Card Game Interface{Colors.PURPLE} 
+{Colors.BOLD}{Colors.WHITE}👤 github.com/volksgeistt{Colors.PURPLE}                                            
+
 {Colors.END}
 
 {Colors.WHITE}Challenge yourself against smart AI opponents
@@ -733,7 +735,9 @@ def display_startup_screen():
     {Colors.RED}██    ██ {Colors.BLUE}██  ██ ██ {Colors.GREEN}██    ██{Colors.PURPLE}        
      {Colors.RED}██████  {Colors.BLUE}██   ████  {Colors.GREEN}██████{Colors.PURPLE}         
                                                 
-{Colors.BOLD}{Colors.WHITE}Cli-Based Card Game Interface{Colors.PURPLE}                                            
+{Colors.BOLD}{Colors.WHITE}Cli-Based Card Game Interface{Colors.PURPLE}  
+{Colors.BOLD}{Colors.WHITE}👤 github.com/volksgeistt{Colors.PURPLE}                                            
+
 {Colors.END}
 """)
 
